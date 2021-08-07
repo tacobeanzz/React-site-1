@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { FaToggleOn } from "react-icons/fa";
 import HeroSection from "../components/HeroSection";
 import Navbar from "../components/Navbar";
 import Sidebar from "../components/Sidebar";
